@@ -4,22 +4,7 @@
 This is a complete solution to the [Job listings with filtering challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt). This project demonstrates responsive web design, dynamic content rendering, and interactive filtering functionality using vanilla HTML, CSS, and JavaScript.
 
 
-## 📋 Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Features](#features)
-- [Technical Implementation](#technical-implementation)
-  - [Built with](#built-with)
-  - [Project structure](#project-structure)
-  - [Key features](#key-features)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Usage](#usage)
-- [Development Process](#development-process)
-  - [What I learned](#what-i-learned)
-  - [Challenges faced](#challenges-faced)
-  - [Future improvements](#future-improvements)
 
 ## Overview
 
