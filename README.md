@@ -3,6 +3,7 @@
 
 This is a complete solution to the [Job listings with filtering challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt). This project demonstrates responsive web design, dynamic content rendering, and interactive filtering functionality using vanilla HTML, CSS, and JavaScript
 
+![Design preview for the Job listings with filtering coding challenge](./design/desktop-preview.jpg)
 
 
 
@@ -18,7 +19,6 @@ Users should be able to:
 - ✅ Add multiple filters simultaneously
 - ✅ Remove individual filters or clear all filters at once
 
-![Design preview for the Job listings with filtering coding challenge](./design/desktop-preview.jpg)
 
 ### Features
 
@@ -187,8 +187,3 @@ This project enhanced my skills in:
 - 🚀 Virtual scrolling for large datasets
 - 📦 Code splitting and lazy loading
 - 🗜️ Image optimization and lazy loading
-
-
-## Author
-
-- Frontend Mentor - [@Ayokanmi-Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
